@@ -1,0 +1,15 @@
+.bg-presentacion {
+    background-color: #B8CDC6;
+    color: #5725A9;
+    font-family: NeueMachina-Light;
+}
+.bg-footer {
+    background-color: #5725A9;
+    color: #FFFFFF;
+}
+@font-face {
+    font-family: "NeueMachina-Light";
+    font-style: normal;
+    src: url(../fonts/NeueMachina-Light.otf); /*if IE */
+    src: local("NeueMachina"), url("../fonts/NeueMachina-Light.otf") format('opentype'); /* non-IE */
+}
